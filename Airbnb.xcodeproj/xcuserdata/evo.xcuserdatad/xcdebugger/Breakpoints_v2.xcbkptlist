@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FAA11CDD-06DB-4455-8E36-C76AF8096A0A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA83EB94-23CF-4EB8-846D-F8D28BCD1927"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Airbnb/Services/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getListings(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA83EB94-23CF-4EB8-846D-F8D28BCD1927 - 9cae7169a5bb4c87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Airbnb.APIService.getListings(completion: (Swift.Result&lt;Swift.Array&lt;Airbnb.AirbnbListing&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Airbnb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evo/Documents/xCode%20proj/Airbnb/Airbnb/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "FA83EB94-23CF-4EB8-846D-F8D28BCD1927 - 9cae7169a5bb4c87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Airbnb.APIService.getListings(completion: (Swift.Result&lt;Swift.Array&lt;Airbnb.AirbnbListing&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Airbnb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evo/Documents/xCode%20proj/Airbnb/Airbnb/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "FA83EB94-23CF-4EB8-846D-F8D28BCD1927 - 9cae7169a5bb4c87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Airbnb.APIService.getListings(completion: (Swift.Result&lt;Swift.Array&lt;Airbnb.AirbnbListing&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Airbnb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evo/Documents/xCode%20proj/Airbnb/Airbnb/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD45B028-0762-48AC-BE95-7E61AC0D2B49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Airbnb/Services/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getListings(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4BAF8DD-A253-48CC-9430-6BC9555D9E37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Airbnb/Services/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getListings(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
